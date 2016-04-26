@@ -3,7 +3,7 @@ title:       bluenotebook
 email:       post.siddhant@gmail.com
 author:      Siddhant Jain
 description: "Personal blog to document stuff"
-baseurl:     "/pixyll"
+baseurl:     "/blog"
 url:         "http://siddhantjain.github.io"
 date_format: "%b %-d, %Y"
 
